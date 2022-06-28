@@ -8,7 +8,6 @@ tags:
 - general conference
 - sketchnotes
 - sketchnote collection
-category: Gospel Sketcher
 ---
 
 ![Dale G. Renlund sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/apr-2019/apr-19-4-renlund.jpg){:loading="lazy"}

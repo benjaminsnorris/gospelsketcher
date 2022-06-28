@@ -7,7 +7,6 @@ date: 2020-10-04 16:09:00-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from the final session of General Conference. God wishes us to look to the future with optimism and work to serve others.

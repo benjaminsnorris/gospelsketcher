@@ -7,7 +7,6 @@ date: 2020-04-04 11:52:44-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Session synopsis sketchnotes from Saturday morning of General Conference. Our own spiritual work is the most important part of the continuing Restoration in our lives.

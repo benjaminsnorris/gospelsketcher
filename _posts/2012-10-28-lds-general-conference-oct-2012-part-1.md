@@ -6,7 +6,6 @@ gallery_thumb:
 canonical_url: https://bennorris.com/2012/10/28/lds-general-conference-oct-2012-part-1
 date: 2012-10-28 21:08:38-0600
 read_time: false
-category: Gospel Sketcher
 tags:
 - general conference
 - sketchnotes

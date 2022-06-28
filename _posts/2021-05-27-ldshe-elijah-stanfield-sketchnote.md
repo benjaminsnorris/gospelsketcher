@@ -6,7 +6,6 @@ canonical_url: https://bennorris.com/2021/05/27/ldshe-elijah-stanfield-sketchnot
 date: 2021-05-27 11:36:10-0600
 tags:
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Loved the keynote address this morning from Elijah Stanfield at the LDSHE West conference. Great thoughts about the law of God and how we can participate in His work.

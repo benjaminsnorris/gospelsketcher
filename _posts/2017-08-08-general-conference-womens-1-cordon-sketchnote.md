@@ -7,7 +7,6 @@ date: 2017-08-08 06:49:42-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Finally getting back into sketchnoting general conference.

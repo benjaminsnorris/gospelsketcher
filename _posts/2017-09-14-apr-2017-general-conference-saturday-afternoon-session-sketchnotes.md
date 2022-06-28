@@ -8,7 +8,6 @@ tags:
 - general conference
 - sketchnotes
 - sketchnote collection
-category: Gospel Sketcher
 ---
 
 ![General Conference sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/apr-2017/apr-17-2-hales.jpg){:loading="lazy"}

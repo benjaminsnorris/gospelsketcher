@@ -8,7 +8,6 @@ tags:
 - general conference
 - sketchnotes
 - sketchnote collection
-category: Gospel Sketcher
 ---
 
 ![General Conference sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/oct-2020/oct-20-intro.jpg){:loading="lazy"}

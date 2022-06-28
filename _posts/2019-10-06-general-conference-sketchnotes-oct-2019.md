@@ -8,7 +8,6 @@ tags:
 - general conference
 - sketchnotes
 - sketchnote collection
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from October 2019 General Conference.

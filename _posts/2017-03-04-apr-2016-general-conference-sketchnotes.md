@@ -6,7 +6,6 @@ tags:
 - general conference
 - sketchnotes
 - sketchnote collection
-category: Gospel Sketcher
 ---
 
 It took me a while to get any of these done, and I did not complete sketchnotes for all of the talks. But what I do have, I am posting here.

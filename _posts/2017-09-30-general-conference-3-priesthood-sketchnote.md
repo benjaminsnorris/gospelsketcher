@@ -7,7 +7,6 @@ date: 2017-09-30 18:56:40-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Full talk #sketchnotes coming later. Here is a synopsis of the Priesthood session at #LDSConf. ✍🏼⛪️

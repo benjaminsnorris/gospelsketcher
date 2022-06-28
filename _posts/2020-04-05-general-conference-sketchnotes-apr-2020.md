@@ -11,7 +11,6 @@ tags:
 - gospel sketcher
 - sketchnotes
 - sketchnote collection
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from all sessions of April 2020 General Conference.

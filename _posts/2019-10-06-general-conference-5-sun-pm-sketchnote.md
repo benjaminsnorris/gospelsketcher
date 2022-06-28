@@ -7,7 +7,6 @@ date: 2019-10-06 15:51:34-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Sketchnote synopsis of the final session of General Conference. What an uplifting experience!

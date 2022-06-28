@@ -2,7 +2,6 @@
 title: "Good News Lutheran Service Sketchnote"
 canonical_url: https://bennorris.com/2021/09/12/good-news-service-sketchnote
 date: 2021-09-12 18:40:57-0700
-category: Gospel Sketcher
 tags:
 - sketchnotes
 short: true

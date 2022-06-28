@@ -7,7 +7,6 @@ date: 2019-10-05 11:58:22-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Sketchnotes from a marvelously uplifting opening session of General Conference.

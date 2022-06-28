@@ -7,7 +7,6 @@ date: 2020-10-03 16:01:35-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from the Saturday afternoon session of General Conference. God is truly in charge, and nothing comes as a surprise to Him.

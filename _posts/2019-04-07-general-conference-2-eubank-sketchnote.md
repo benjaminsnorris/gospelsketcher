@@ -7,7 +7,6 @@ date: 2019-04-07 15:00:00-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Sketchnotes from Sharon G. Eubank at General Conference. This came like a love note from God to me today.

@@ -4,7 +4,6 @@ gallery_thumb: https://media.bennorris.com/images/gospelsketcher/general/jan-12-
 canonical_url: https://bennorris.com/2012/01/30/parenting-class-jan-2012
 date: 2012-01-30 13:16:10-0700
 read_time: false
-category: Gospel Sketcher
 tags:
 - sketchnotes
 ---

@@ -7,7 +7,6 @@ date: 2020-04-04 10:29:21-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Excited for the chance to watch General Conference with my family. This will be a special weekend.

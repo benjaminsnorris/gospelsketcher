@@ -7,7 +7,6 @@ date: 2017-08-28 05:51:59-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 We can and must continue to grow in light continually. #Sketchnotes from Mark A. Bragg at Apr 17 #LDSConf ✍🏼⛪️

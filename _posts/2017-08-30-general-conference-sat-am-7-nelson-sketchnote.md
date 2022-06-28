@@ -7,7 +7,6 @@ date: 2017-08-30 05:57:12-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 We need to come to know the Savior better to have His power in our lives. #Sketchnotes from Russell M. Nelson in Apr 17 #LDSConf ✍🏼⛪️

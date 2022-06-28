@@ -7,7 +7,6 @@ date: 2017-10-01 15:36:20-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 What an amazing conference! My synopsis #sketchnotes from Sunday afternoon session of #LDSConf ✍🏼⛪️

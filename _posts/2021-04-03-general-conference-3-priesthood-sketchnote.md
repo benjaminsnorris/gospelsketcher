@@ -7,7 +7,6 @@ date: 2021-04-03 19:40:21-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from the Priesthood session of General Conference. Among the losses, think of what you have learned the last two years you want to never forget.

@@ -7,7 +7,6 @@ gallery_thumb:
 canonical_url: https://bennorris.com/2012/05/30/lds-tech-conference-2012
 date: 2012-05-30 21:14:43-0600
 read_time: false
-category: Gospel Sketcher
 tags:
 - sketchnotes
 - sketchnote collection

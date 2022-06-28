@@ -7,7 +7,6 @@ date: 2018-03-28 10:19:51-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Excited to capture some sketchnotes for the upcoming April 2018 General Conference.

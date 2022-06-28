@@ -6,7 +6,6 @@ gallery_thumb:
 canonical_url: https://bennorris.com/2011/11/28/home-education
 date: 2011-11-28 13:02:40-0700
 read_time: false
-category: Gospel Sketcher
 tags:
 - sketchnotes
 ---

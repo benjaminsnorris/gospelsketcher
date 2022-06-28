@@ -8,7 +8,6 @@ tags:
 - general conference
 - sketchnotes
 - sketchnote collection
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from all sessions of the April 2021 General Conference.

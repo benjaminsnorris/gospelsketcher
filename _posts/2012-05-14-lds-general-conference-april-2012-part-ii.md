@@ -6,7 +6,6 @@ gallery_thumb:
 canonical_url: https://bennorris.com/2012/05/14/lds-general-conference-april-2012-part-ii
 date: 2012-05-14 16:42:35-0600
 read_time: false
-category: Gospel Sketcher
 tags:
 - general conference
 - sketchnotes

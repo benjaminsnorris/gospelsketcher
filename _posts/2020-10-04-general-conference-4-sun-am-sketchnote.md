@@ -7,7 +7,6 @@ date: 2020-10-04 11:48:59-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from Sunday morning of General Conference. There is much that we can do to bring the peace of God into our lives and others’.

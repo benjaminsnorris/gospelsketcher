@@ -6,7 +6,6 @@ short: true
 gallery_thumb: 
 - https://media.bennorris.com/images/gospelsketcher/thumbs/ldshe-22-dan-ralphs-01.jpg
 - https://media.bennorris.com/images/gospelsketcher/thumbs/ldshe-22-dan-ralphs-02.jpg
-category: Gospel Sketcher
 tags:
 - sketchnotes
 ---

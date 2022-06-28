@@ -7,7 +7,6 @@ date: 2019-10-06 11:44:46-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from the Sunday morning session of General Conference.

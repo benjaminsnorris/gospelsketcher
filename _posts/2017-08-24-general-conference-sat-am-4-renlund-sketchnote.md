@@ -7,7 +7,6 @@ date: 2017-08-24 05:53:16-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Christ continues to love no matter what we do. And we should too. #Sketchnotes from Dale G. Renlund at Apr 17 #LDSConf ✍🏼⛪️

@@ -8,7 +8,6 @@ gallery_thumb:
 - https://media.bennorris.com/images/gospelsketcher/thumbs/apr-2012-04-sun-am-02.jpg
 canonical_url: https://bennorris.com/2012/04/05/lds-general-conference-april-2012
 date: 2012-04-05 20:14:51-0600
-category: Gospel Sketcher
 tags:
 - general conference
 - sketchnotes

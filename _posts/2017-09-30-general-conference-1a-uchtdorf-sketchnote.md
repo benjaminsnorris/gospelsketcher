@@ -7,7 +7,6 @@ date: 2017-09-30 10:36:26-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 We must all join together in our pilgrimage back to our real home. #Sketchnotes from #PresUchtdorf in Oct 17 #LDSConf ✍🏼⛪️

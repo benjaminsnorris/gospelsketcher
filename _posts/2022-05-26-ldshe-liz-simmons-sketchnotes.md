@@ -2,7 +2,6 @@
 title: "LDSHE 2022 Liz Simmons Sketchnotes"
 canonical_url: https://bennorris.com/2022/05/26/ldshe-liz-simmons-sketchnotes
 date: 2022-05-26 14:13:26-0600
-category: Gospel Sketcher
 short: true
 gallery_image:
 - https://media.bennorris.com/images/gospelsketcher/thumbs/ldshe-22-liz-simmons-01.jpg

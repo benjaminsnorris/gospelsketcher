@@ -6,7 +6,6 @@ canonical_url: https://bennorris.com/2021/05/26/ldshe-ganel-lyn-condie-sketchnot
 date: 2021-05-26 10:21:13-0600
 tags:
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Wonderful opening keynote at the LDSHE West Conference from Ganel-Lyn Condie. Great message about finding peace.

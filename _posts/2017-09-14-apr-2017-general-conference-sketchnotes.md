@@ -7,7 +7,6 @@ tags:
 - general conference
 - sketchnotes
 - sketchnote collection
-category: Gospel Sketcher
 ---
 
 I was not able to complete all of the sketchnotes for this conference before the next conference. Hopefully I can go back sometime and fill in the remaining sessions. ✍🏼⛪️

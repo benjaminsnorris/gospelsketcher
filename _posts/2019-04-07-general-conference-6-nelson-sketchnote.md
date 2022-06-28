@@ -7,7 +7,6 @@ date: 2019-04-07 15:13:00-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Sketchnotes from our prophet Russell M. Nelson at General Conference. Focus on staying close to our families in this life and the next.

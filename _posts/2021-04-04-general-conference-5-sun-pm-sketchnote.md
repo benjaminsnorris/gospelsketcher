@@ -7,7 +7,6 @@ date: 2021-04-04 15:59:33-0600
 tags:
 - general conference
 - sketchnotes
-category: Gospel Sketcher
 ---
 
 Synopsis sketchnotes from the final Sunday afternoon session of General Conference. God is eager to bless us, His children.
