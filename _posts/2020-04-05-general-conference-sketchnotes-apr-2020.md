@@ -8,7 +8,6 @@ image:
   thumbnail: https://media.bennorris.com/images/gospelsketcher/general-conference/apr-2020/apr-20-header.jpg
 read_time: false
 tags:
-- gospel sketcher
 - sketchnotes
 - sketchnote collection
 ---
