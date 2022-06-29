@@ -5,7 +5,6 @@ canonical_url: https://bennorris.com/2017/01/03/oct-2016-general-conference-sket
 date:           2017-01-03 07:00:00-0700
 excerpt:        Sketchnotes of all talks from Oct 2016 LDS General Conference
 read_time:      false
-category:       Gospel Sketcher
 tags:
 - sketchnotes
 - general conference

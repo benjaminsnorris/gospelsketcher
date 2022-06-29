@@ -5,7 +5,6 @@ canonical_url: https://bennorris.com/2016/12/10/oct-2016-general-conference-prie
 date:           2016-12-10 07:15:00-0700
 excerpt:        Sketchnotes of all talks in the Priesthood session from Oct 2016 LDS General Conference
 read_time:      false
-category:       Gospel Sketcher
 tags:
 - sketchnotes
 - general conference

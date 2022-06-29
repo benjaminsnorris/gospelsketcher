@@ -5,7 +5,6 @@ canonical_url: https://bennorris.com/2017/01/01/oct-2016-general-conference-wome
 date:           2017-01-01 07:45:00-0700
 excerpt:        Sketchnotes of all talks in the Women’s session from Oct 2016 LDS General Conference
 read_time:      false
-category:       Gospel Sketcher
 tags:
 - sketchnotes
 - general conference

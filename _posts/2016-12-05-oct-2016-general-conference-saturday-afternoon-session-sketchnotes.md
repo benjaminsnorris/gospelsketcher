@@ -5,7 +5,6 @@ canonical_url: https://bennorris.com/2016/12/05/oct-2016-general-conference-satu
 date:           2016-12-05 07:15:00-0700
 excerpt:        Sketchnotes of all talks in the Saturday afternoon session from Oct 2016 LDS General Conference
 read_time:      false
-category:       Gospel Sketcher
 tags:
 - sketchnotes
 - general conference
