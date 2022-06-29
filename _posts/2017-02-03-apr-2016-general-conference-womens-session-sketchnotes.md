@@ -6,7 +6,7 @@ date: 2017-02-03 06:30:01-0700
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 ![General Conference sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/apr-2016/apr-16-0-esplin.jpg){:loading="lazy"}

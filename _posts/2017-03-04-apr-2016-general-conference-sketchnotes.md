@@ -5,7 +5,7 @@ date: 2017-03-04 19:28:10-0700
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 It took me a while to get any of these done, and I did not complete sketchnotes for all of the talks. But what I do have, I am posting here.

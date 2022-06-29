@@ -7,7 +7,7 @@ date: 2017-09-14 06:02:35-0600
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 ![General Conference sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/apr-2017/apr-17-2-hales.jpg){:loading="lazy"}

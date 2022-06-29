@@ -9,7 +9,7 @@ image:
 read_time: false
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 Synopsis sketchnotes from all sessions of April 2020 General Conference.

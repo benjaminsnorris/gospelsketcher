@@ -6,7 +6,7 @@ date: 2017-04-01 18:54:23-0600
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 ![General Conference sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/apr-2017/apr-17-3-monson.jpg){:loading="lazy"}

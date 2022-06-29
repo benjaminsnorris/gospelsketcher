@@ -6,7 +6,7 @@ date: 2017-09-14 06:29:19-0600
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 I was not able to complete all of the sketchnotes for this conference before the next conference. Hopefully I can go back sometime and fill in the remaining sessions. ✍🏼⛪️

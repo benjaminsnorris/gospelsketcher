@@ -6,7 +6,7 @@ date: 2017-08-30 06:12:12-0600
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 ![General Conference sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/apr-2017/apr-17-1-eyring.jpg){:loading="lazy"}

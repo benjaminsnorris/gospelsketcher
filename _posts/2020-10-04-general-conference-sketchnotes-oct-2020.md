@@ -7,7 +7,7 @@ read_time: false
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 ![General Conference sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/oct-2020/oct-20-intro.jpg){:loading="lazy"}

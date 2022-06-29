@@ -7,7 +7,7 @@ read_time: false
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 Synopsis sketchnotes from October 2019 General Conference.

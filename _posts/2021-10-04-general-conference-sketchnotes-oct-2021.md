@@ -16,7 +16,7 @@ read_time: false
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 Synopsis sketchnotes from all sessions of the October 2021 General Conference.

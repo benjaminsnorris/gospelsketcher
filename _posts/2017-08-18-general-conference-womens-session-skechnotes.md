@@ -6,7 +6,7 @@ date: 2017-08-18 06:12:58-0600
 tags:
 - general conference
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 ![General Conference sketchnotes](https://media.bennorris.com/images/gospelsketcher/general-conference/apr-2017/apr-17-0-cordon.jpg){:loading="lazy"}
